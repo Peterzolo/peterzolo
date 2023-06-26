@@ -1,5 +1,5 @@
 <h3 align="center"><p align="left">Hi there!👋</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakar_ibrahim&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakar-yinka&label=Profile%20views&color=0e75b6&style=flat" alt="Abubakar" /> </p>
 <img src="https://github-hero-readme.vercel.app/api?username=peterzolo&count_private=true&show_icons=true&include_all_commits=true&linkedin=peter-solomon" href=""/></h3>
 
 ---
