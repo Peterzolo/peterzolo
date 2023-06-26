@@ -1,5 +1,5 @@
 <h3 align="center"><p align="left">Hi there!👋</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakar-yinka&label=Profile%20views&color=0e75b6&style=flat" alt="Abubakar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=peterzolo&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 <img src="https://github-hero-readme.vercel.app/api?username=peterzolo&count_private=true&show_icons=true&include_all_commits=true&linkedin=peter-solomon" href=""/></h3>
 
 ---
@@ -78,7 +78,7 @@
   </a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterzolo&langs_count=8&layout=compact&theme=radical&count_private=true" alt="peterzolo's Top Langs" width="600" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peter-zolo&langs_count=8&layout=compact&theme=radical&count_private=true" alt="peterzolo's Top Langs" width="600" /></p>
 
 ---
 
