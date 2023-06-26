@@ -78,7 +78,7 @@
   </a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterzolo&langs_count=8&layout=compact&theme=radical&count_private=true" alt="peterzolo's Top Langs" width="600" /></p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peter-zolo&langs_count=8&layout=compact&theme=radical&count_private=true" alt="peterzolo's Top Langs" width="600" /></p> -->
 
 ---
 
